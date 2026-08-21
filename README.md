@@ -33,4 +33,4 @@ Abra `script.js`. A lista `categories`, no começo do arquivo, contém nomes, pr
 - `script.js`: peças, cálculos, compatibilidade e salvamento.
 - `.nojekyll`: evita processamento desnecessário no GitHub Pages.
 
-Feito para a futura conquista da Talita 💜
+Feito para a futura conquista da minha (Talita) 💜
